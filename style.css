@@ -1,0 +1,157 @@
+
+* {
+    margin: 0 auto;
+}
+
+.gif-header {
+    color: white;
+    text-align: center;
+    padding: 20px 40px;
+    font-family: 'Rochester', cursive;
+}
+
+
+form {
+    padding-top: 10px;
+    padding-left: 5px;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+}
+
+.button-submit {
+    background-color: black;
+    color: white;
+    border: 1px solid black;
+    padding: 10px 15px;
+    text-align: center;
+    display: inline-block;
+    font-size: 20px;
+    font-family: 'Rochester', cursive;
+    margin: 5px;
+    cursor: pointer;
+}
+
+.button-submit:hover {
+    background-color: orangered;
+    border: 1px solid black;
+    color: black;
+}
+
+.button-topic {
+    background-color: black;
+    color: white;
+    border: 1px solid black;
+    padding: 10px 15px;
+    text-align: center;
+    display: inline-block;
+    font-size: 17px;
+    font-family: 'Rochester', cursive;
+    margin: 5px;
+    cursor: pointer;
+}
+
+.button-topic:hover {
+    background-color: orangered;
+    color: black;
+}
+
+input {
+    padding: 15px;
+    width: 400px;
+}
+
+input[placeholder], [placeholder], *[placeholder] {
+    color: grey;
+    font-size: 15px;
+}
+
+img {
+    margin: 10px;
+    border: 1px solid black;
+    cursor: pointer;    
+}
+
+#img1 {
+    float: left;
+    text-align: center;
+    font-family: 'Rochester', cursive;
+    font-size: 15px;
+}
+
+#img2 {
+    float: left;
+    text-align: center;
+    font-family: 'Rochester', cursive;
+    font-size: 15px;
+}
+
+#img3 {
+    float: left;
+    text-align: center;
+    font-family: 'Rochester', cursive;
+    font-size: 15px;
+}
+
+#img4 {
+    float: left;
+    text-align: center;
+    font-family: 'Rochester', cursive;
+    font-size: 15px;
+}
+
+#img5 {
+    float: left;
+    text-align: center;
+    font-family: 'Rochester', cursive;
+    font-size: 15px;
+}
+
+#img6 {
+    float: left;
+    text-align: center;
+    font-family: 'Rochester', cursive;
+    font-size: 15px;
+}
+
+#img7 {
+    float: left;
+    text-align: center;
+    font-family: 'Rochester', cursive;
+    font-size: 15px;
+}
+
+#img8 {
+    float: left;
+    text-align: center;
+    font-family: 'Rochester', cursive;
+    font-size: 15px;
+}
+
+#img9 {
+    float: left;
+    text-align: center;
+    font-family: 'Rochester', cursive;
+    font-size: 15px;
+}
+
+#img10 {
+    float: left;
+    text-align: center;
+    font-family: 'Rochester', cursive;
+    font-size: 15px;
+}
+
+p {
+    border: 1px solid black;
+    background-color: black;
+    color: white;
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+body {
+    background-image: url("https://forum.inkscapecommunity.com/index.php?action=dlattach;topic=415.0;attach=1250");
+    background-repeat: repeat;
+    background-position: cover;
+    background-size: 100%;
+}
