@@ -14,3 +14,9 @@ This is an application interface for searching gif's via the GIPHY API.
 
 * Under every gif, it display its rating (PG, G, so on)
 
+This application utlizes HTML, CSS, Javascript along with the JQuery framework. 
+
+Accesses the GIPHY API via get request. 
+
+Check it out from the link below!
+
