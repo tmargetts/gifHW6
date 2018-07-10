@@ -20,3 +20,4 @@ Accesses the GIPHY API via get request.
 
 Check it out from the link below!
 
+[GIFind](https://tmargetts.github.io/gifHW6/.)
